@@ -108,5 +108,7 @@
     "nodemailer": ">=6.4.6",
     "preview-email": ">=3.0.19",
     "pug": ">=3.0.1"
-  }
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts"
 }
