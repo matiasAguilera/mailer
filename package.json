@@ -60,10 +60,8 @@
   "optionalDependencies": {
     "@types/ejs": "^3.1.5",
     "@types/pug": "^2.0.10",
-    "@types/mjml": "^4.7.4",
     "ejs": "^3.1.10",
     "handlebars": "^4.7.8",
-    "mjml": "^5.0.0-alpha.4",
     "pug": "^3.0.2",
     "liquidjs": "^10.11.1",
     "preview-email": "^3.0.19"
@@ -103,11 +101,9 @@
     "@nestjs/core": ">=7.0.9",
     "@types/ejs": ">=3.0.3",
     "@types/pug": ">=2.0.6",
-    "@types/mjml": ">=4.7.4",
     "nodemailer": ">=6.4.6",
     "ejs": ">=3.1.2",
     "handlebars": ">=4.7.6",
-    "mjml": ">=4.15.3",
     "pug": ">=3.0.1",
     "liquidjs": ">=10.8.2",
     "preview-email": ">=3.0.19"
